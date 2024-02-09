@@ -1,0 +1,14 @@
+.container {
+	background-color: #1d1e22;
+	height: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.logo {
+	color:  #feda6a;;
+	font-size: 28px;
+	font-weight: 500;
+	font-family: 'Courier New', Courier, monospace;
+}
